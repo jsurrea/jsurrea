@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Mobile App Development**
 
-- 👯 I’m looking to collaborate on **New Challenging Projects (particularly in Computer Graphics 👀))**
+- 👯 I’m looking to collaborate on **New Challenging Projects (particularly in Computer Graphics 👀)**
 
 - 🤝 I’m looking for help with [Mi Horario Uniandes](https://github.com/Open-Source-Uniandes/Mi-Horario-Uniandes)
 
