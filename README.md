@@ -8,7 +8,7 @@
 ![Followers](https://img.shields.io/badge/dynamic/json?color=%233B82F6&label=Followers&query=%24.followers&url=https://api.github.com/users/jsurrea)
 ![Gists](https://img.shields.io/badge/dynamic/json?color=%2310B981&label=Gists&query=%24.public_gists&url=https://api.github.com/users/jsurrea)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF6B6B&center=true&vCenter=true&random=false&width=600&lines=AI+Researcher;Software+Developer;Full-Time+CS+Lover" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF6B6B&center=true&vCenter=true&random=false&width=600&lines=AI+Researcher;Software+Developer;Open+Source+Builder" alt="Typing SVG" />
 
 </div>
 
